@@ -1,4 +1,8 @@
-# Rossman Sales prediction with a focus on Data Preprocessing
+# Rossmann-Store-Sales
+Time series prediction of sales.
 
-In this repo you will find the code needed to perform several layers of data preprocessing followe by predicting 6 weeks worth of sales using the Rossmann Sales Dataset.
-I have saved the intermediate dataframes after each step so that you can look at how the data changes through various stages. 
+This repository contains all the code that I used to solve the given problem. 
+
+To know more about the problem and more detailed written description you can refer my blog [here](https://keshavrawat.medium.com/rossmann-store-sales-prediction-998161027abf).
+
+Note: Final_function.iypnb contains a function named final_func_1, which can be used in production environment to predict on unseen datapoints.
